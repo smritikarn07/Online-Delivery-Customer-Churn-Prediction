@@ -99,6 +99,9 @@ A total of 7 models are built namely:
 * **Receiver Operator Characteristic (ROC) curve**: Evaluation metric, probablity curve that plots TPR and FPR for various threshold values.
 * **Area Under Curve (AUC)**: Summary of ROC curve and measures the ability of classifier to distinguish between positive and negative classes
 
+![Screenshot (47)](https://user-images.githubusercontent.com/109594714/185834905-28b34274-261a-4912-bd40-7329e530a50a.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/109594714/185835148-41a95634-1d5d-4708-9c1e-8e24d3164932.png)
+
 Higher the AUC, better the performance of the model
 
 **Best Performance according to various metrics:**
@@ -107,3 +110,6 @@ Higher the AUC, better the performance of the model
 * AUC_ROC Score: 98% (XGBoost - Grid Search)
 * F1 Score: 96% (XGBoost - Grid Search)
 * Accuracy: 93.81% (XGBoost - Grid Search)
+
+
+

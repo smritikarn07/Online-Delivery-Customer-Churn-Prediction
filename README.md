@@ -33,10 +33,13 @@ Demographics of consumers
 
 ## Data Analysis
 
-**Pandas Profiling:**
-**Geospatial Data Analysis:**
-**Categorical Grouping:**
-**Visualization of Continuous variables:**
+* **Pandas Profiling**
+
+* **Geospatial Data Analysis**
+
+* **Categorical Grouping**
+
+* **Visualization of Continuous variables**
 
 ## Feature Engineering:
 

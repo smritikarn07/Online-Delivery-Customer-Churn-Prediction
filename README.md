@@ -53,7 +53,7 @@ Feature engineering refers to a process of selecting and transforming variables 
 * Converting categorical features to numerical features using cat.codes
 
 ### One Hot Encoding
-This procedure is done for XGBoost, where the following categorical features are categorically coded using OneHotEncoder:
+The following categorical features are categorically coded using OneHotEncoder:
 
 'Gender', 'Marital_Status', 'Occupation', 'Monthly_Income', 'Educational_Qualifications', 'Family_size', 'Time_saving', 'Good_Quantity','Meal', 'Preference', 'Medium', 'Ease_and_convenient', 'More_restaurant_choices', 'Easy_Payment_option', 'More_Offers_and_Discount', 'Good_Food_quality', 'Good_Tracking_system', 'Self_Cooking', 'Health_Concern', 'Late_Delivery', 'Poor_Hygiene', 'Bad_past_experience', 'Unavailability', 'Unaffordable', 'Long_delivery_time', 'Delay_of_delivery_person_getting_assigned', 'Delay_of_delivery_person_picking_up_food', 'Wrong_order_delivered', 'Missing_item', 'Order_placed_by_mistake', 'Influence_of_time', 'Order_Time', 'Maximum_wait_time', 'Residence_in_busy_location', 'Google_Maps_Accuracy', 'Good_Road_Condition', 'Low_quantity_low_time',  'Delivery_person_ability', 'Influence_of_rating', 'Less_Delivery_time',  'High_Quality_of_package', 'Number_of_calls', 'Politeness', 'Freshness_', 'Temperature', 'Good_Taste_' 
        
